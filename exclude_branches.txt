@@ -2,4 +2,3 @@ origin/master
 origin/develop
 origin/staging
 origin/200_AdEbisBatch
-origin/41834_アクション設定のUI変更_ファイル分割確認
